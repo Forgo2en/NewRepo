@@ -1,0 +1,11 @@
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\bin\Debug\Calculator.exe.config
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\bin\Debug\Calculator.exe
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\bin\Debug\Calculator.pdb
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.exe
+\\apetfs\ИСП-2\Николаев_АА\МДК 02.01\Calculator\Calculator\obj\Debug\Calculator.pdb
